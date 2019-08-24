@@ -1,5 +1,5 @@
 body {
-  font-family: 'Roboto', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 
 .landing-section {
@@ -51,4 +51,18 @@ body {
 .what-we-do-icons {
   padding: 4%;
   text-align: center;
+}
+
+.portfolio {
+  padding: 4%;
+  text-align: center;
+}
+
+.portfolio h2 {
+  padding: 1%;
+}
+
+.card {
+  padding-bottom: 4%;
+  border: none;
 }
