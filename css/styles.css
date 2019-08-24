@@ -56,6 +56,7 @@ font-family: 'Roboto', sans-serif;
 .portfolio {
   padding: 4%;
   text-align: center;
+  width: 90%;
 }
 
 .portfolio h2 {
@@ -65,4 +66,40 @@ font-family: 'Roboto', sans-serif;
 .card {
   padding-bottom: 4%;
   border: none;
+}
+
+.contact-us-section {
+  background: url('../images/c_image.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: #FDFDFB;
+}
+
+.contact-us {
+  width: 70%;
+  text-align: center;
+  padding-bottom: 9%;
+}
+.contact-us h2 {
+  padding-top: 5%;
+  padding-bottom: 2%;
+}
+.form-control::placeholder {
+  color: white;
+}
+
+#userName {
+  background-color: transparent;
+}
+#inputEmail {
+  background-color: transparent;
+}
+#userMessage {
+  background-color: transparent;
+}
+
+.footer {
+  padding: 4%;
+  text-align: center;
 }
