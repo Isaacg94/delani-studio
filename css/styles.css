@@ -1,33 +1,54 @@
 body {
   font-family: 'Roboto', sans-serif;
 }
-.header-image {
-  background: url("../images/h_img.jpg");
-  height: 100vh !important;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  text-align: center;
-  position: relative;;
-}
 
-.no-padding{
-  padding-left: 0;
-  padding-right: 0;
+.landing-section {
+  background: url('../images/h_img.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
   color: #ffffff;
 }
-
+#logo {
+  padding-top: 17%;
+}
 #welcome {
-  padding-top: 291px;
+  padding-top: 2.5%;
 }
 #message {
-  padding-top: 25px;
+  padding-top: 2%;
 }
 #content {
   font-size: 12px;
 }
+#mouse-click {
+  padding-top: 12%;
+  padding-bottom: 3%;
+}
 
-.body-content {
+.about-us {
+  padding: 4%;
   text-align: center;
-  color: black;
+}
+
+.services-section {
+  background: url('../images/s_image.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+.services {
+  padding: 8%;
+  color: #ffffff;
+}
+
+.what-we-do {
+  padding: 4%;
+  text-align: center;
+}
+
+.what-we-do-icons {
+  padding: 4%;
+  text-align: center;
 }
