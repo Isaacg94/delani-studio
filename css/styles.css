@@ -96,10 +96,34 @@ font-family: 'Roboto', sans-serif;
 .portfolio h2 {
   padding: 1%;
 }
-
 .card {
   padding-bottom: 4%;
   border: none;
+}
+
+.card img {
+  display: block;
+  position: relative;
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+}
+
+.card:hover img {
+  filter: grayscale(1) blur(2px);
+  -webkit-filter: grayscale(1) blur(1px);
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+#overlay,#overlay1,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7 {
+  display: none;
+  background-color:rgba(255, 255, 255, 0.456);
+  position: absolute;
+  top: 75px;
+  left: 70px;
+
+
 }
 
 .contact-us-section {
