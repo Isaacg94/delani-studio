@@ -181,6 +181,7 @@ font-family: 'Roboto', sans-serif;
   width: 70%;
   text-align: center;
   padding-bottom: 9%;
+  color: white;
 }
 .contact-us h2 {
   padding-top: 5%;
@@ -189,15 +190,20 @@ font-family: 'Roboto', sans-serif;
 .form-control::placeholder {
   color: white;
 }
-
 #userName {
   background-color: transparent;
+  border-radius: 0px;
+  color: white;
 }
 #inputEmail {
   background-color: transparent;
+  border-radius: 0px;
+  color: white;
 }
 #userMessage {
   background-color: transparent;
+  border-radius: 0px;
+  color: white;
 }
 
 .footer {
