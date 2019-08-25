@@ -124,8 +124,10 @@ font-family: 'Roboto', sans-serif;
   padding-right: 15px;
   position: absolute;
   top: 75px;
-  left: 60px;
-  font-family: 'Oleo Script', cursive;
+  left: 40px;
+  font-family: 'Sail', cursive;
+  color: #000000;
+  font-size: 45px;
 }
 .text-overlay h2 {
   display: block;
