@@ -60,11 +60,18 @@ font-family: 'Roboto', sans-serif;
 .design h3 {
   font-size: 16px;
 }
+#designText {
+  display: none;
+}
+
 .development {
   font-size: 12px;
 }
 .development h3 {
   font-size: 16px;
+}
+#developmentText {
+  display: none;
 }
 .product-management {
   font-size: 12px;
@@ -72,7 +79,9 @@ font-family: 'Roboto', sans-serif;
 .product-management h3 {
   font-size: 16px;
 }
-
+#productManagementText {
+  display: none;
+}
 
 .portfolio {
   padding: 4%;
