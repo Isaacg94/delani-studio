@@ -82,6 +82,10 @@ font-family: 'Roboto', sans-serif;
 #productManagementText {
   display: none;
 }
+.clickable {
+  cursor: pointer;
+}
+
 
 .portfolio {
   padding: 4%;
