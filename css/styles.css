@@ -116,7 +116,7 @@ font-family: 'Roboto', sans-serif;
   transform: scale(1.1);
 }
 
-#overlay,#overlay1,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7 {
+#overlay2,#overlay5 {
   display: none;
   background: linear-gradient(90deg, rgba(56,117,243,0.26094187675070024) 0%, rgba(230,124,232,0.2861519607843137) 100%);
   border-radius: 2px;
@@ -124,11 +124,38 @@ font-family: 'Roboto', sans-serif;
   padding-right: 15px;
   position: absolute;
   top: 75px;
-  left: 40px;
+  left: 32px;
   font-family: 'Sail', cursive;
   color: #000000;
   font-size: 45px;
 }
+#overlay3,#overlay6,#overlay {
+  display: none;
+  background: linear-gradient(90deg, rgba(56,117,243,0.26094187675070024) 0%, rgba(230,124,232,0.2861519607843137) 100%);
+  border-radius: 2px;
+  padding-left: 15px;
+  padding-right: 15px;
+  position: absolute;
+  top: 75px;
+  left: 32px;
+  font-family: 'Sail', cursive;
+  color: #fff9d7;
+  font-size: 45px;
+}
+#overlay1,#overlay4 ,#overlay7{
+  display: none;
+  background: linear-gradient(90deg, rgba(56,117,243,0.5) 0%, rgba(230,124,232,0.5) 100%);
+  border-radius: 2px;
+  padding-left: 15px;
+  padding-right: 15px;
+  position: absolute;
+  top: 75px;
+  left: 32px;
+  font-family: 'Sail', cursive;
+  color: #fff9d7;
+  font-size: 45px;
+}
+
 .text-overlay h2 {
   display: block;
   position: relative;
