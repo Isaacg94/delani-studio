@@ -118,13 +118,27 @@ font-family: 'Roboto', sans-serif;
 
 #overlay,#overlay1,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7 {
   display: none;
-  background-color:rgba(255, 255, 255, 0.456);
+  background: linear-gradient(90deg, rgba(56,117,243,0.26094187675070024) 0%, rgba(230,124,232,0.2861519607843137) 100%);
+  border-radius: 2px;
+  padding-left: 15px;
+  padding-right: 15px;
   position: absolute;
   top: 75px;
-  left: 70px;
-
-
+  left: 60px;
+  font-family: 'Oleo Script', cursive;
 }
+.text-overlay h2 {
+  display: block;
+  position: relative;
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+}
+.text-overlay:hover h2 {
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
 
 .contact-us-section {
   background: url('../images/c_image.jpg');
