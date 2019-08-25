@@ -118,7 +118,7 @@ font-family: 'Roboto', sans-serif;
 
 #overlay2,#overlay5 {
   display: none;
-  background: linear-gradient(90deg, rgba(140,126,251,0.26094187675070024) 0%, rgba(222,66,91,0.2861519607843137) 100%);
+  background: linear-gradient(90deg, rgba(240,116,217,0.26094187675070024) 0%, rgba(81,226,190,0.2861519607843137) 100%);
   border-radius: 2px;
   padding-left: 15px;
   padding-right: 15px;
@@ -131,7 +131,7 @@ font-family: 'Roboto', sans-serif;
 }
 #overlay3,#overlay6,#overlay {
   display: none;
-  background: linear-gradient(90deg, rgba(140,126,251,0.26094187675070024) 0%, rgba(222,66,91,0.2861519607843137) 100%);
+  background: linear-gradient(90deg, rgba(240,116,217,0.26094187675070024) 0%, rgba(81,226,190,0.2861519607843137) 100%);
   border-radius: 2px;
   padding-left: 15px;
   padding-right: 15px;
@@ -144,7 +144,7 @@ font-family: 'Roboto', sans-serif;
 }
 #overlay1,#overlay4 ,#overlay7{
   display: none;
-  background: linear-gradient(90deg, rgba(140,126,251,0.5) 0%, rgba(222,66,91,0.5) 100%);
+  background: linear-gradient(90deg, rgba(240,116,217,0.5) 0%, rgba(81,226,190,0.5) 100%);
   border-radius: 2px;
   padding-left: 15px;
   padding-right: 15px;
