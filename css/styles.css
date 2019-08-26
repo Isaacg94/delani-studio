@@ -161,9 +161,7 @@ font-family: 'Roboto', sans-serif;
   border: solid;
   border: solid color #ffffff 5px;
 }
-.text-overlay {
 
-}
 .text-overlay h2 {
   display: block;
   position: relative;
@@ -225,6 +223,7 @@ font-family: 'Roboto', sans-serif;
   text-align: center;
   word-spacing: 20px;
 }
+
 .footer-text {
   padding-bottom: 2%;
 }
