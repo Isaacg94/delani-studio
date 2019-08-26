@@ -3,7 +3,7 @@
 #### By **Isaac Gichuru**
 ![alt text](images/screenshot1.png)
 
-## [Livelink to GitHub Pages](https:)
+## [Livelink to GitHub Pages](https://isaacg94.github.io/delani-studio/)
 ## Description
 This is the landing page for a fictional studio, which gives a brief description of the company as well as a portfolio section that features some of their projects. The page contains various effects. The page also allows a user to get in contact as well as send feedback by filling a form and displaying an alert on submitting the form.
 ## Behaviour Driven Development (BDD)
