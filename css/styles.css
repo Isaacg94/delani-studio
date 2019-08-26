@@ -206,6 +206,12 @@ font-family: 'Roboto', sans-serif;
   color: white;
 }
 
+#submit {
+  background-color: transparent;
+  border-color: #ffffff;
+  text-align: center;
+}
+
 .footer {
   padding: 3%;
   text-align: center;
