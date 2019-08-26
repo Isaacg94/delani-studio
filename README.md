@@ -1,6 +1,6 @@
 # Delani Studio.
 #### The Landing page of a fictional photo-studio, 26/08/2019.
-#### By **Isaac Gichuru**
+#### By **[Isaac Gichuru.](https://github.com/Isaacg94/delani-studio/tree/master)**
 ![alt text](images/screenshot.png)
 
 ## [Livelink to GitHub Pages](https://isaacg94.github.io/delani-studio/)
