@@ -49,7 +49,6 @@ font-family: 'Roboto', sans-serif;
   padding: 4%;
   text-align: center;
 }
-
 .what-we-do-icons {
   padding: 4%;
   text-align: center;
@@ -214,8 +213,12 @@ font-family: 'Roboto', sans-serif;
 
 #submit {
   background-color: transparent;
+  border-radius: 50px;
   border-color: #ffffff;
   text-align: center;
+}
+#submit:hover {
+  background: linear-gradient(90deg, rgba(240,116,217,0.7) 0%, rgba(46,196,159,0.4) 100%);
 }
 
 .footer {
