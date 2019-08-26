@@ -1,25 +1,24 @@
-# Akan Name Generator.
-#### Generates names, of the Akan tribe in accordance to the day of the week you were born, 18/08/2019.
+# Delani Studio.
+#### The Landing page of a fictional photo-studio, 26/08/2019.
 #### By **Isaac Gichuru**
-![alt text](images/Screenshot1.png)
+![alt text](images/screenshot1.png)
 
-![alt text](images/Screenshot2.png)
-## [Livelink to GitHub Pages](https://isaacg94.github.io/akan-name-generator/)
+## [Livelink to GitHub Pages](https:)
 ## Description
-This is a web application that takes your birthday details and calculates the day of the week you were born and then depending on your gender, generates an Akan tribe name. In Ghanian culture, children are given their first name as a 'day name' which corresponds to the day in the week they were born.
+This is the landing page for a fictional studio, which gives a brief description of the company as well as a portfolio section that features some of their projects. The page contains various effects. The page also allows a user to get in contact as well as send feedback by filling a form and displaying an alert on submitting the form.
 ## Behaviour Driven Development (BDD)
 |Behaviour 	           |    Input 	                 |       Output          |
 |----------------------------------------------|:-----------------------------------:|-----------------------------:|       
-|Page loads and  a form displayed                         |   User enters form details  and selects from the select radios   and clicks submit                   |Their Akan name is displayed     |                       |
+|Page loads and  a form displayed                         |   User enters form details   and clicks submit                   |A confirmation alert is displayed.     |                       |
 
 
 ## Setup/Installation Requirements
 Here is a run through of how to set up the application:
 * Step 1 : Clone this repository using the git clone link:
-  * **`git clone https://github.com/Isaacg94/akan-name-generator.git`**
+  * **`git clone https://github.com/Isaacg94/delani-studio.git`**
 
 * Step 2 : Navigate to the directory:
-  * **`cd akan-name-generator`**
+  * **`cd delani-studio`**
 
 * Step 3 : Open the directory created with your favorite IDE. If Atom type **`atom .`** if VSCode type **`code .`** . This will lauch the editor with the project setup,
 
@@ -28,7 +27,9 @@ Here is a run through of how to set up the application:
 ## Technologies Used
 * HTML
 * CSS
-* Javascript
+* Bootstrap 4.3
+* jQuery 3.4.1
+
 
 ## Support and contact details
 Primary E-mail Address: 7248zack@gmail.com
